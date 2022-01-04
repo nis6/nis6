@@ -2,6 +2,7 @@
 <!--
 **nis6/nis6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![plot](https://github.com/nis6/nis6/blob/main/github%20banner%20(1).png)
 <img src="https://github.com/nis6/nis6/blob/main/github%20banner%20(1).png" />
 
 ### Connect with me!
