@@ -1,7 +1,16 @@
-### Hi there 👋
 
 <!--
 **nis6/nis6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://www.figma.com/file/JUD7ggHocXdX4axABch6CF/banners?node-id=21%3A235" />
+
+### Connect with me!
+
+</br>
+### My Toolkit
+
+</br>
+### 
 
 Here are some ideas to get you started:
 
