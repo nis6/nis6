@@ -1,9 +1,5 @@
 
-<!--
-**nis6/nis6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![plot](https://github.com/nis6/nis6/blob/main/github%20banner%20(1).png)
-<img width="100%" alt="github banner (1)" src="https://user-images.githubusercontent.com/47380034/148112668-b01e022f-f782-4984-a7e6-76130fa8cd1f.png">
+<img width="1500" alt="github banner (1)" src="https://user-images.githubusercontent.com/47380034/148112668-b01e022f-f782-4984-a7e6-76130fa8cd1f.png">
 
 ### Connect with me!
 
