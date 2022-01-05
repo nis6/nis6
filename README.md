@@ -3,11 +3,11 @@
 
 
 ### Skills
-![Vector](https://user-images.githubusercontent.com/47380034/148198693-7b403d1e-abbf-4df9-870d-9913260b0f8c.png)
-![Vector-1](https://user-images.githubusercontent.com/47380034/148198702-b843eab3-378d-4e52-a5f5-8a38307dfe4b.png)
-![Vector-2](https://user-images.githubusercontent.com/47380034/148198704-c412057f-1f61-4db1-9b2b-b21a388d5123.png)
-![Vector-3](https://user-images.githubusercontent.com/47380034/148198705-976bec8a-0fa0-4264-864e-3b7ac1b0ba93.png)
-![Vector-4](https://user-images.githubusercontent.com/47380034/148198712-a462e45d-60a0-4f55-82a6-6bb259e96bed.png)
+![Vector](https://user-images.githubusercontent.com/47380034/148198693-7b403d1e-abbf-4df9-870d-9913260b0f8c.png) &nbsp; &nbsp;
+![Vector-1](https://user-images.githubusercontent.com/47380034/148198702-b843eab3-378d-4e52-a5f5-8a38307dfe4b.png) &nbsp; &nbsp;
+![Vector-2](https://user-images.githubusercontent.com/47380034/148198704-c412057f-1f61-4db1-9b2b-b21a388d5123.png) &nbsp; &nbsp;
+![Vector-3](https://user-images.githubusercontent.com/47380034/148198705-976bec8a-0fa0-4264-864e-3b7ac1b0ba93.png) &nbsp; &nbsp;
+![Vector-4](https://user-images.githubusercontent.com/47380034/148198712-a462e45d-60a0-4f55-82a6-6bb259e96bed.png) &nbsp; &nbsp;
 
 
 </br>
