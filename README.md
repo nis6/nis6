@@ -35,10 +35,10 @@ const status = {
 <!-- ![Frame 14 (1)](https://user-images.githubusercontent.com/47380034/148209735-7c9e9dd1-a8f1-4730-a720-260a215e6911.png) -->
 </div>
 
-🔎 Looking to contribute to Opensource
-🎁 Always up for feedback on my code and designs
-💬 Ask me about Design Systems, Data Structures and Algorithms, Calculus and Linear Algebra, also ReactJS.
-📜 Fun fact: I keep a journal📔 for almost everything. 
+##### 🔎 Looking to contribute to Opensource
+##### 🎁 Always up for feedback on my code and designs
+##### 💬 Ask me about Design Systems, Data Structures and Algorithms, Calculus and Linear Algebra, also ReactJS.
+##### 📜 Fun fact: I keep a journa for almost everything. 
 
 ### Connect with me!
 [![icons8-twitter-clouds 1](https://user-images.githubusercontent.com/47380034/148194897-05eb59ae-ecdf-4519-8bee-37088aae8281.png)](https://twitter.com/Nishachauhanr)
