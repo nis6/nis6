@@ -19,15 +19,14 @@
 <img width="48" alt="Vector-1" src="https://user-images.githubusercontent.com/47380034/148200439-71f3c964-d38b-4c42-bb42-efb262c96cde.png"> &nbsp; &nbsp;
 
 
-</br>
 ### 📒 I’m currently working on 
 - a personal project to strengthen my skills around Reactjs and Design Systems
 - My Portfolio
 
 ### 📑 I’m currently learning 
-  - ReactJS and it's ecosystem
-  - TypeScript
-  - OpenSource
+- ReactJS and it's ecosystem
+- TypeScript
+- - OpenSource
 
 #### 🔎 I’m looking to contribute to Opensource
 
