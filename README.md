@@ -35,12 +35,12 @@ const status = {
 <!-- ![Frame 14 (1)](https://user-images.githubusercontent.com/47380034/148209735-7c9e9dd1-a8f1-4730-a720-260a215e6911.png) -->
 </div>
 
-#### 🔎 Looking to contribute to Opensource
-#### 🎁 Always up for feedback on my code and designs
-#### 💬 Ask me about Design Systems, Data Structures and Algorithms, Calculus and Linear Algebra, also ReactJS.
-#### 📜 Fun fact: I keep a journal📔 for almost everything. 
+🔎 Looking to contribute to Opensource
+🎁 Always up for feedback on my code and designs
+💬 Ask me about Design Systems, Data Structures and Algorithms, Calculus and Linear Algebra, also ReactJS.
+📜 Fun fact: I keep a journal📔 for almost everything. 
 
 ### Connect with me!
-[![icons8-twitter-clouds 1](https://user-images.githubusercontent.com/47380034/148194897-05eb59ae-ecdf-4519-8bee-37088aae8281.png)]()
+[![icons8-twitter-clouds 1](https://user-images.githubusercontent.com/47380034/148194897-05eb59ae-ecdf-4519-8bee-37088aae8281.png)](https://twitter.com/Nishachauhanr)
 [![icons8-linkedin-cloud 1](https://user-images.githubusercontent.com/47380034/148194895-80a9053f-9a9c-40c3-b7ee-70d4852e638a.png)](https://www.linkedin.com/in/nisha-chauhan-31197b17b/)
 [![icons8-gmail 1](https://user-images.githubusercontent.com/47380034/148246297-02a61c7e-6b9d-4a61-af52-28b975d1ae82.png)](mailto:nishachauhan0950@gmail.com)
