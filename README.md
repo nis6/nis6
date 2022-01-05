@@ -20,22 +20,22 @@
 
 
 </br>
-📒 I’m currently working on 
-  - a personal project to strengthen my skills around Reactjs and Design Systems
-  - My Portfolio
+### 📒 I’m currently working on 
+- a personal project to strengthen my skills around Reactjs and Design Systems
+- My Portfolio
 
-📑 I’m currently learning 
+### 📑 I’m currently learning 
   - ReactJS and it's ecosystem
   - TypeScript
   - OpenSource
 
-🔎 I’m looking to contribute to Opensource
+#### 🔎 I’m looking to contribute to Opensource
 
-🎁 I’m always looking for feedback on my code and Designs
+#### 🎁 I’m always looking for feedback on my code and Designs
 
-💬 Ask me about ReactJS, Style components, Design Systems, Data Structures and Algorithms, Calculus and Linear Algebra
+#### 💬 Ask me about ReactJS, Style components, Design Systems, Data Structures and Algorithms, Calculus and Linear Algebra
 
-⚡ Fun fact: I keep a journal📔 for almost everything. 
+#### ⚡ Fun fact: I keep a journal📔 for almost everything. 
 
 
 ### My Toolkit
