@@ -22,7 +22,7 @@
 ### Connect with me!
 - Email
 - Twitter
-- ![icons8-linkedin](https://user-images.githubusercontent.com/47380034/148190232-39353689-90f5-4906-a98d-b944a2e73a89.gif)Linkedin
+- ![icons8-linkedin-cloud 1](https://user-images.githubusercontent.com/47380034/148193043-73e59de4-c82a-4740-8747-23ad8eed5b55.png)Linkedin
 
 </br>
 ### 
