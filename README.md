@@ -24,17 +24,21 @@
 - My Portfolio
 
 ### 📑 I’m currently learning 
-- ReactJS and it's ecosystem
 - TypeScript
 - OpenSource
 
-#### 🔎 I’m looking to contribute to Opensource
+### Practicing 
+- ReactJS and it's ecosystem
+- Problem Solving
+- Focus
 
-#### 🎁 I’m always looking for feedback on my code and Designs
+#### 🔎 Looking to contribute to Opensource
 
-#### 💬 Ask me about ReactJS, Style components, Design Systems, Data Structures and Algorithms, Calculus and Linear Algebra
+#### 🎁 Always up for feedback on my code and designs
 
-#### ⚡ Fun fact: I keep a journal📔 for almost everything. 
+#### 💬 Ask me about Design Systems, Data Structures and Algorithms, Calculus and Linear Algebra, also ReactJS.
+
+#### 📜 Fun fact: I keep a journal📔 for almost everything. 
 
 
 ### My Toolkit
