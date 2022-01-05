@@ -5,10 +5,10 @@
 ### Skills
 
 <img width="48" alt="Vector" src="https://user-images.githubusercontent.com/47380034/148200431-2242e8de-79c2-47ee-9be7-66db3742ba1d.png"> &nbsp; &nbsp;
-<img width="48" alt="Vector-1" src="https://user-images.githubusercontent.com/47380034/148200439-71f3c964-d38b-4c42-bb42-efb262c96cde.png"> &nbsp; &nbsp;
+<img width="48" alt="Vector-4" src="https://user-images.githubusercontent.com/47380034/148200448-6affc60f-2014-41ed-bbdf-db5a17724f55.png"> &nbsp; &nbsp;
 <img width="48" alt="Vector-2" src="https://user-images.githubusercontent.com/47380034/148200441-f85f0188-9473-4922-b53a-0b6b862e1110.png"> &nbsp; &nbsp;
 <img width="48" alt="Vector-3" src="https://user-images.githubusercontent.com/47380034/148200446-0eab25d2-70ee-46df-9896-936c020233aa.png"> &nbsp; &nbsp;
-<img width="48" alt="Vector-4" src="https://user-images.githubusercontent.com/47380034/148200448-6affc60f-2014-41ed-bbdf-db5a17724f55.png"> &nbsp; &nbsp;
+<img width="48" alt="Vector-1" src="https://user-images.githubusercontent.com/47380034/148200439-71f3c964-d38b-4c42-bb42-efb262c96cde.png"> &nbsp; &nbsp;
 
 </br>
 ### My Toolkit
