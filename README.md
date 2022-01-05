@@ -26,7 +26,7 @@
 ### 📑 I’m currently learning 
 - ReactJS and it's ecosystem
 - TypeScript
-- - OpenSource
+- OpenSource
 
 #### 🔎 I’m looking to contribute to Opensource
 
