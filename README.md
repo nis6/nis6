@@ -1,5 +1,5 @@
 
-<img width="1500" alt="final-github-banner" src="https://user-images.githubusercontent.com/47380034/148183406-3b58886d-2b23-4599-9cee-881f384b606c.png">
+<img width="1500" alt="github banner (4)" src="https://user-images.githubusercontent.com/47380034/148188002-c51b87f3-a417-4f1a-9c2d-cae3a18b145b.png">
 
 
 ### Skills
@@ -22,7 +22,7 @@
 ### Connect with me!
 - Email
 - Twitter
-- Linkedin
+- <img src="https://img.icons8.com/material-rounded/24/000000/linkedin--v2.png"/>Linkedin
 
 </br>
 ### 
