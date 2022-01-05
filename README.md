@@ -20,7 +20,7 @@
 
 
 ### 📒 I’m currently working on 
-- a personal project to strengthen my skills around Reactjs and Design Systems
+- a personal project focused on Reactjs and Design Systems
 - My Portfolio
 
 ### 📑 I’m currently learning 
@@ -45,3 +45,4 @@
 ### Connect with me!
 [![icons8-twitter-clouds 1](https://user-images.githubusercontent.com/47380034/148194897-05eb59ae-ecdf-4519-8bee-37088aae8281.png)]()
 [![icons8-linkedin-cloud 1](https://user-images.githubusercontent.com/47380034/148194895-80a9053f-9a9c-40c3-b7ee-70d4852e638a.png)](https://www.linkedin.com/in/nisha-chauhan-31197b17b/)
+[![icons8-gmail 1](https://user-images.githubusercontent.com/47380034/148246297-02a61c7e-6b9d-4a61-af52-28b975d1ae82.png)](mailto:nishachauhan0950@gmail.com)
