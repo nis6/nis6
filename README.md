@@ -22,7 +22,8 @@
 ### Connect with me!
 ![icons8-gmail 1](https://user-images.githubusercontent.com/47380034/148193531-020e0cfb-ffa4-4677-a19f-6359b5dab104.png)
 ![icons8-twitter-clouds 1](https://user-images.githubusercontent.com/47380034/148193040-931dd840-8793-434a-92cf-3fcd699ef643.png)
-![icons8-linkedin-cloud 1](https://user-images.githubusercontent.com/47380034/148193043-73e59de4-c82a-4740-8747-23ad8eed5b55.png)Linkedin
+![icons8-linkedin-cloud 1 (1)](https://user-images.githubusercontent.com/47380034/148194285-b8c8d846-c34a-4492-9b0a-1f7b97a02587.png)
+
 
 </br>
 ### 
