@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 
 ### Connect with me!
-[![icons8-gmail 1](https://user-images.githubusercontent.com/47380034/148194889-b542adae-e8e9-4ae3-8afa-042672591897.png)](nishachauhan0950@gmail.com)
+[![icons8-gmail 1](https://user-images.githubusercontent.com/47380034/148194889-b542adae-e8e9-4ae3-8afa-042672591897.png)](https://mail.google.com/mail/u/?authuser=nishachauhan0950@gmail.com)
 [![icons8-twitter-clouds 1](https://user-images.githubusercontent.com/47380034/148194897-05eb59ae-ecdf-4519-8bee-37088aae8281.png)]()
 [![icons8-linkedin-cloud 1](https://user-images.githubusercontent.com/47380034/148194895-80a9053f-9a9c-40c3-b7ee-70d4852e638a.png)](https://www.linkedin.com/in/nisha-chauhan-31197b17b/)
