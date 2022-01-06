@@ -16,7 +16,7 @@
         <img width="48" alt="Vector-3" src="https://user-images.githubusercontent.com/47380034/148200446-0eab25d2-70ee-46df-9896-936c020233aa.png"> &nbsp; &nbsp;
         <img width="48" alt="Vector-1" src="https://user-images.githubusercontent.com/47380034/148200439-71f3c964-d38b-4c42-bb42-efb262c96cde.png"> &nbsp; &nbsp;
          <br/><br/>
-        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=nis6&show_icons=true&bg_color=0D0B0B&title_color=D9542A&border_color=BDACB4&icon_color=BDACB4&text_color=BDACB4&border_radius=7&count_private=true&include_all_commits=true"/>        
+        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=nis6&show_icons=true&bg_color=0D0B0B&title_color=D9542A&border_color=BDACB4&icon_color=BDACB4&text_color=BDACB4&border_radius=7&count_private=true"/>        
 </p>
         
 ---
@@ -33,12 +33,6 @@ const status = {
   };
 ```
 
-
-
-<div position="absolute" align="right">
-<!-- ![Frame 14 (2)](https://user-images.githubusercontent.com/47380034/148220024-df7d131e-9c19-40b0-91d5-600277fcfcac.png) -->
-<!-- ![Frame 14 (1)](https://user-images.githubusercontent.com/47380034/148209735-7c9e9dd1-a8f1-4730-a720-260a215e6911.png) -->
-</div>
 
 ##### 🔎 Looking to contribute to Opensource
 ##### 🎁 Always up for feedback on my code and designs
