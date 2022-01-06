@@ -16,7 +16,7 @@
         <img width="48" alt="Vector-3" src="https://user-images.githubusercontent.com/47380034/148200446-0eab25d2-70ee-46df-9896-936c020233aa.png"> &nbsp; &nbsp;
         <img width="48" alt="Vector-1" src="https://user-images.githubusercontent.com/47380034/148200439-71f3c964-d38b-4c42-bb42-efb262c96cde.png"> &nbsp; &nbsp;
          <br/><br/>
-        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=nis6&show_icons=true&bg_color=0D0B0B&title_color=D9542A&border_color=BDACB4&icon_color=BDACB4&text_color=BDACB4&border_radius=7"/>        
+        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=nis6&show_icons=true&bg_color=0D0B0B&title_color=D9542A&border_color=BDACB4&icon_color=BDACB4&text_color=BDACB4&border_radius=7&count_private=true"/>        
 </p>
         
 ---
