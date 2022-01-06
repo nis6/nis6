@@ -28,7 +28,7 @@ const status = {
       "personal project focused on ReactJS and Design Systems",
       "My portfolio",
     ],
-    learning: ["OpenSource", "TypeScript"],
+    learning: ["OpenSource", "TypeScript", "Web Design"],
     practicing: ["ReactJS and it's ecosystem", "Problem Solving", "Focus"],
   };
 ```
