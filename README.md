@@ -1,9 +1,15 @@
+
 <img width="1500"  alt="github banner" src="https://user-images.githubusercontent.com/47380034/148361087-113dbdfb-b440-41e3-967e-45d08348a7ee.png">
 <!-- <img width="40" alt="Vector" src="https://user-images.githubusercontent.com/47380034/148210395-5866358d-d922-48c2-a348-97429dc6a94e.png"> &nbsp; &nbsp;
 <img width="40" alt="Vector-1" src="https://user-images.githubusercontent.com/47380034/148210403-36266bb4-6214-41b7-9f7a-f222e6905698.png"> &nbsp; &nbsp;
 <img width="40" alt="Vector-2" src="https://user-images.githubusercontent.com/47380034/148210407-f5e2536d-33bf-4e01-bd0f-f142b08417dc.png"> &nbsp; &nbsp;
 <img width="40" alt="Vector-3" src="https://user-images.githubusercontent.com/47380034/148210408-de136808-ae1b-466a-962c-74510f87bf31.png"> &nbsp; &nbsp;
 <img width="40" alt="Vector-4" src="https://user-images.githubusercontent.com/47380034/148210412-e67ece9a-3b26-408c-92c2-fa0aa023b6a4.png"> &nbsp; &nbsp; -->
+
+### Connect with me!
+[![icons8-twitter-clouds 1](https://user-images.githubusercontent.com/47380034/148194897-05eb59ae-ecdf-4519-8bee-37088aae8281.png)](https://twitter.com/Nishachauhanr)
+[![icons8-linkedin-cloud 1](https://user-images.githubusercontent.com/47380034/148194895-80a9053f-9a9c-40c3-b7ee-70d4852e638a.png)](https://www.linkedin.com/in/nisha-chauhan-31197b17b/)
+[![icons8-gmail 1](https://user-images.githubusercontent.com/47380034/148246297-02a61c7e-6b9d-4a61-af52-28b975d1ae82.png)](mailto:nishachauhan0950@gmail.com)
 
 <img width="400" align="right" alt="final-toolkit" src="https://user-images.githubusercontent.com/47380034/148367984-aa702d97-4a20-416f-bdd9-eb02c7828e70.png">
 
@@ -37,8 +43,3 @@ const status = {
 🎁 Always up for feedback on my code and designs <br/>
 💬 Ask me about Books, art, calculus and Design.<br/>
 📜 Fun fact: I tend to overdesign things. <br/>
-
-### Connect with me!
-[![icons8-twitter-clouds 1](https://user-images.githubusercontent.com/47380034/148194897-05eb59ae-ecdf-4519-8bee-37088aae8281.png)](https://twitter.com/Nishachauhanr)
-[![icons8-linkedin-cloud 1](https://user-images.githubusercontent.com/47380034/148194895-80a9053f-9a9c-40c3-b7ee-70d4852e638a.png)](https://www.linkedin.com/in/nisha-chauhan-31197b17b/)
-[![icons8-gmail 1](https://user-images.githubusercontent.com/47380034/148246297-02a61c7e-6b9d-4a61-af52-28b975d1ae82.png)](mailto:nishachauhan0950@gmail.com)
